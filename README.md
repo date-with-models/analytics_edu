@@ -1,2 +1,2 @@
 # analytics_edu
-учебные задания по сбору и анализу данных
+training tasks on data collection and analysis
